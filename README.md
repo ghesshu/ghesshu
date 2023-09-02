@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 - 🔭 I’m currently working on exciting MERN stack projects.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hughestottimeh/) | [Twitter](https://twitter.com/ghes.hu)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hughes-tottimeh-97b5b123b/) | [Twitter](https://twitter.com/ghes.hu)
 - 😄 Pronouns: He/Him
 
 ### 🛠️ Tech Stack
