@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 ### 🌟 Featured Projects
 
-1. [Project Name](https://github.com/ghesshu/project-link) - Brief project description.
-2. [Another Project](https://github.com/ghesshu/another-project) - A short summary.
-3. [Open Source Contribution](https://github.com/ghesshu/open-source) - How I'm giving back to the community.
+1. [Recruiters4Job](https://recruiters-site.vercel.app/) 
+2. [GEO API](https://github.com/ghesshu/Geo-API) 
+3. [EventSeating Pro](https://github.com/ghesshu/EventSeating-Pro) 
 
 ### 📈 GitHub Stats
 
