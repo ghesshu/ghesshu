@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 ### 🌟 Featured Projects
 
-1. [Recruiters4Job](https://recruiters-site.vercel.app/) 
+1. [Recruiters4Job](https://recruiter-ts.vercel.app/) 
 2. [GEO API](https://github.com/ghesshu/Geo-API) 
 3. [EventSeating Pro](https://github.com/ghesshu/EventSeating-Pro) 
 
